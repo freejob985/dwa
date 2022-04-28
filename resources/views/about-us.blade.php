@@ -1,7 +1,6 @@
 @extends('layouts.landing.app')
 
 @section('title','About Us')
-
 @section('content')
     <main>
         <div class="main-body-div">
